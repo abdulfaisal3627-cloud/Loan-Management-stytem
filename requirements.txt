@@ -1,3 +1,3 @@
  pandas 
  steamlit 
- scikit-learn  
+ scikit_learn  
